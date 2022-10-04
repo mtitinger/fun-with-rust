@@ -1,0 +1,12 @@
+[package]
+name = "my-binary-name"
+version = "0.99.0"
+authors = ["Marc TITINGER <marc.titinger@hotmail.fr>"]
+
+#[[bin]]
+#path = "blah.rs"
+#name = "blah"
+
+
+#[dependencies]
+#rand = "0.6.5"
